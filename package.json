@@ -1,0 +1,22 @@
+{
+  "name": "resume-cv",
+  "version": "1.0.0",
+  "description": "this is my Resume i will built it just with front-end developement and i am gone to use BOOTSRAP 5 ",
+  "main": "entry_point.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sl"
+  },
+  "keywords": [
+    "ls"
+  ],
+  "author": "ks",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3"
+  }
+}

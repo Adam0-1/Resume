@@ -1,0 +1,16 @@
+{
+    "folders":
+    [
+        // ...
+        {
+			"path": "node_modules"
+		},
+    ],
+    "settings": {
+        // settings here will override global settings
+        "BootstrapAutocomplete": {
+            // use Bootstrap 5 for this project.
+            "versions": ["5"],
+        },
+    },
+}
